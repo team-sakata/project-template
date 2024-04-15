@@ -1,4 +1,1 @@
-*.ipynb
-/data
-!/source/*.ipynb
-
+data/
